@@ -18,8 +18,8 @@
   
   <entry>
     <title>one</title>
-    <link href="http://yoursite.com/2019/03/30/one/"/>
-    <id>http://yoursite.com/2019/03/30/one/</id>
+    <link href="http://yoursite.com/wz/"/>
+    <id>http://yoursite.com/wz/</id>
     <published>2019-03-30T02:23:08.000Z</published>
     <updated>2019-03-30T02:23:08.196Z</updated>
     
@@ -32,8 +32,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2019/03/30/hello-world/"/>
-    <id>http://yoursite.com/2019/03/30/hello-world/</id>
+    <link href="http://yoursite.com/wz/"/>
+    <id>http://yoursite.com/wz/</id>
     <published>2019-03-30T01:56:28.431Z</published>
     <updated>2019-03-30T01:56:28.431Z</updated>
     
