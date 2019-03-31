@@ -4,26 +4,19 @@
   
     
     <entry>
-      <title>测试文章-Zh_cn</title>
-      <link href="//wz/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0-Zh-cn"/>
-      <url>//wz/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0-Zh-cn</url>
+      <title>T</title>
+      <link href="//wz/T"/>
+      <url>//wz/T</url>
       
-        <content type="html"><![CDATA[]]></content>
-      
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>测试文章</title>
-      <link href="//wz/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0"/>
-      <url>//wz/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0</url>
-      
-        <content type="html"><![CDATA[]]></content>
+        <content type="html"><![CDATA[<h1 id="真的只有T"><a href="#真的只有T" class="headerlink" title="真的只有T"></a>真的只有T</h1><ul><li>T<br>  -T</li></ul>]]></content>
       
       
+      
+        <tags>
+            
+            <tag> 其他 </tag>
+            
+        </tags>
       
     </entry>
     

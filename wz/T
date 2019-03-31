@@ -133,7 +133,7 @@
     </script>
     
     <script defer type="text/javascript" src="/js/custom.js"></script>
-    <title>归档 | Nccore Studio | 喵尘工作室</title>
+    <title>T | Nccore Studio | 喵尘工作室</title>
   </head>
   <body itemscope itemtype="http://schema.org/WebPage" lang="zh_CN" data-spy="scroll" data-target=".list-group">
     
@@ -156,7 +156,7 @@
         
         <li role="menuitem"><a href="/"><i class="fas fa-home"></i><span class="menu-text">首页</span></a></li>
         
-        <li role="menuitem"><a href="/archives/" class="current"><i class="fas fa-archive"></i><span class="menu-text">归档</span></a></li>
+        <li role="menuitem"><a href="/archives/"><i class="fas fa-archive"></i><span class="menu-text">归档</span></a></li>
         
         <li role="menuitem"><a href="/tags/"><i class="fas fa-tags"></i><span class="menu-text">标签</span></a></li>
         
@@ -175,48 +175,63 @@
         <div class="main-container">
           <div class="content">
             
-<div id="archive" class="archive page">
-  <h1 class="page-title">归档</h1>
-  <h2 class="page-counter">
-    
-    你已经写了 2 篇文章！
-    
-  </h2>
-  
-  
-  
-  
-  <h2 class="page-title">2019
+<div id="post" class="page">
   
   <article class="article post card" itemscope itemtype="http://schema.org/Article">
-    <header id="post-header" class="post-header">
-      <h1 class="post-title-simple" itemprop="name headline">
-        <a class="post-title-link post-title-link-external" href="/wz/T" itemprop="url">T</a>
-      </h1>
-      
-      <span class="post-date">
-        <time title="post-date" itemprop="dateCreated datePublished" datetime="2019-03-31T15:48:58+08:00">03-31</time>
+    <div class="post-block">
+      <link itemprop="mainEntityOfPage" href="http://yoursite.com/wz/T">
+      <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+       <meta itemprop="name" content="Nccore">
+       <meta itemprop="description" content>
+       <meta itemprop="image" content="/images/avatar.png">
       </span>
-      
+      <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+       <meta itemprop="name" content="Nccore Studio | 喵尘工作室">
+      </span>
+    </div>
+    <header class="post-header">
+      <h1 class="post-title" itemprop="name headline">T</h1>
+      <div class="post-meta">
+        
+        <span class="post-date">
+          <i class="far fa-calendar-plus"></i><span><time title="post-date" itemprop="dateCreated datePublished" datetime="2019-03-31T15:48:58+08:00">2019-03-31 15:48:58</time></span>
+        </span>
+        
+        
+        
+      </div>
     </header>
+    <main class="post-main" itemprop="articleBody">
+      <h1 id="真的只有T"><a href="#真的只有T" class="headerlink" title="真的只有T"></a>真的只有T</h1><ul>
+<li>T<br>  -T</li>
+</ul>
+
+    </main>
+    <footer class="post-footer">
+      
+      <div class="post-tags">
+        
+        <a class="post-tag button" href="/tags/其他/" rel="tag"><i class="fas fa-tags"></i>其他</a>
+        
+      </div>
+      
+    </footer>
   </article>
   
   
-  <article class="article post card" itemscope itemtype="http://schema.org/Article">
-    <header id="post-header" class="post-header">
-      <h1 class="post-title-simple" itemprop="name headline">
-        <a class="post-title-link post-title-link-external" href="/wz/test" itemprop="url">test</a>
-      </h1>
+  <nav class="page-nav">
+    <div class="page-nav-next page-nav-item">
       
-      <span class="post-date">
-        <time title="post-date" itemprop="dateCreated datePublished" datetime="2019-03-30T13:09:11+08:00">03-30</time>
-      </span>
+      <a href="/wz/test" rel="next" title="test"><i class="fas fa-angle-left"></i><span class="nav-title">test</span></a>
       
-    </header>
-  </article>
+    </div>
+    <div class="page-nav-prev page-nav-item">
+      
+    </div>
+  </nav>
   
   
-</h2></div>
+</div>
 
           </div>
           
@@ -270,6 +285,17 @@
 
 
   <div class="sidebar-sticky">
+    
+    
+    
+    
+    
+    <hr>
+    <div class="post-toc sidebar-item" id="toc-div">
+      <div><i class="fas fa-list-ol"></i>文章目录</div>
+      <div class="post-toc-content"><ol class="list-group toc"><li class="toc-item toc-level-1"><a class="list-group-item toc-link" href="#真的只有T"><span class="toc-text">真的只有T</span></a></li></ol></div>
+    </div>
+    
     
     
     <hr>
