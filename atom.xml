@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Nccore Studio | 喵尘工作室</title>
+  <title>Hexo</title>
   
   
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-03-31T07:49:52.122Z</updated>
+  <updated>2019-03-30T05:09:11.224Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -17,35 +17,9 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>T</title>
-    <link href="http://yoursite.com//wz/T.md"/>
-    <id>http://yoursite.com//wz/T.md</id>
-    <published>2019-03-31T07:48:58.000Z</published>
-    <updated>2019-03-31T07:49:52.122Z</updated>
-    
-    <content type="html"><![CDATA[<h1 id="真的只有T"><a href="#真的只有T" class="headerlink" title="真的只有T"></a>真的只有T</h1><ul><li>T<br>  -T</li></ul>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;h1 id=&quot;真的只有T&quot;&gt;&lt;a href=&quot;#真的只有T&quot; class=&quot;headerlink&quot; title=&quot;真的只有T&quot;&gt;&lt;/a&gt;真的只有T&lt;/h1&gt;&lt;ul&gt;
-&lt;li&gt;T&lt;br&gt;  -T&lt;/li&gt;
-&lt;/ul&gt;
-
-      
-    
-    </summary>
-    
-    
-      <category term="其他" scheme="http://yoursite.com/tags/%E5%85%B6%E4%BB%96/"/>
-    
-  </entry>
-  
-  <entry>
     <title>test</title>
-    <link href="http://yoursite.com//wz/test.md"/>
-    <id>http://yoursite.com//wz/test.md</id>
+    <link href="http://yoursite.com/2019/03/30/test/"/>
+    <id>http://yoursite.com/2019/03/30/test/</id>
     <published>2019-03-30T05:09:11.000Z</published>
     <updated>2019-03-30T05:09:11.224Z</updated>
     
