@@ -18,8 +18,8 @@
   
   <entry>
     <title>T</title>
-    <link href="http://yoursite.com//wz/T"/>
-    <id>http://yoursite.com//wz/T</id>
+    <link href="http://yoursite.com//wz/T.md"/>
+    <id>http://yoursite.com//wz/T.md</id>
     <published>2019-03-31T07:48:58.000Z</published>
     <updated>2019-03-31T07:49:52.122Z</updated>
     
@@ -44,8 +44,8 @@
   
   <entry>
     <title>test</title>
-    <link href="http://yoursite.com//wz/test"/>
-    <id>http://yoursite.com//wz/test</id>
+    <link href="http://yoursite.com//wz/test.md"/>
+    <id>http://yoursite.com//wz/test.md</id>
     <published>2019-03-30T05:09:11.000Z</published>
     <updated>2019-03-30T05:09:11.224Z</updated>
     
