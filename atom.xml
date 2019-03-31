@@ -18,8 +18,8 @@
   
   <entry>
     <title>测试文章-Zh_cn</title>
-    <link href="http://yoursite.com//wz/2019-03-31-%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0-Zh-cn.md"/>
-    <id>http://yoursite.com//wz/2019-03-31-测试文章-Zh-cn.md</id>
+    <link href="http://yoursite.com//wz/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0-Zh-cn"/>
+    <id>http://yoursite.com//wz/测试文章-Zh-cn</id>
     <published>2019-03-31T07:43:38.000Z</published>
     <updated>2019-03-31T07:43:38.339Z</updated>
     
@@ -32,8 +32,8 @@
   
   <entry>
     <title>测试文章</title>
-    <link href="http://yoursite.com//wz/2019-03-31-%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0.md"/>
-    <id>http://yoursite.com//wz/2019-03-31-测试文章.md</id>
+    <link href="http://yoursite.com//wz/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0"/>
+    <id>http://yoursite.com//wz/测试文章</id>
     <published>2019-03-31T07:06:09.000Z</published>
     <updated>2019-03-31T07:06:09.623Z</updated>
     
@@ -46,8 +46,8 @@
   
   <entry>
     <title>test</title>
-    <link href="http://yoursite.com//wz/2019-03-30-test.md"/>
-    <id>http://yoursite.com//wz/2019-03-30-test.md</id>
+    <link href="http://yoursite.com//wz/test"/>
+    <id>http://yoursite.com//wz/test</id>
     <published>2019-03-30T05:09:11.000Z</published>
     <updated>2019-03-30T05:09:11.224Z</updated>
     
