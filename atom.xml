@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Nc-Core Stu. | 喵尘工作室</title>
+  <title>Nc-Core Stu|喵尘工作室</title>
   
   
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="https://nccore.github.io/"/>
   <updated>2019-03-31T09:49:09.837Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>https://nccore.github.io/</id>
   
   <author>
-    <name>尘尘酱 | NatsuDust</name>
+    <name>尘尘酱   NatsuDust</name>
     
   </author>
   
@@ -18,8 +18,8 @@
   
   <entry>
     <title>1</title>
-    <link href="http://yoursite.com//wz/1/"/>
-    <id>http://yoursite.com//wz/1/</id>
+    <link href="https://nccore.github.io//wz/1/"/>
+    <id>https://nccore.github.io//wz/1/</id>
     <published>2019-03-31T09:46:19.000Z</published>
     <updated>2019-03-31T09:49:09.837Z</updated>
     
@@ -35,7 +35,7 @@
     </summary>
     
     
-      <category term="测试" scheme="http://yoursite.com/tags/%E6%B5%8B%E8%AF%95/"/>
+      <category term="测试" scheme="https://nccore.github.io/tags/%E6%B5%8B%E8%AF%95/"/>
     
   </entry>
   
