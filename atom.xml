@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://nccore.github.io/"/>
-  <updated>2019-04-03T02:44:48.003Z</updated>
+  <updated>2019-04-20T15:30:40.633Z</updated>
   <id>https://nccore.github.io/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>更新日志 v1.0.1</title>
+    <link href="https://nccore.github.io//wz/Update-Blog/"/>
+    <id>https://nccore.github.io//wz/Update-Blog/</id>
+    <published>2019-04-20T15:17:14.000Z</published>
+    <updated>2019-04-20T15:30:40.633Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="更新日志-v1-0-1（alpha-1）"><a href="#更新日志-v1-0-1（alpha-1）" class="headerlink" title="更新日志 v1.0.1（alpha 1）"></a>更新日志 v1.0.1（alpha 1）</h1><pre><code>- 1.更新主题，开放注册系统- 2.加入人机手势验证，完全杜绝机器人恶意访问- 3.加速博客打开速度，同时增加侧边工具栏- 4.删除Hush Bar顶部公告，添加到侧边小工具- 5.停用Markdown编辑器，对评论发布更加友好- 6.修复好多好多的bug</code></pre><hr><h1 id="博客地址"><a href="#博客地址" class="headerlink" title="博客地址"></a>博客地址</h1><p>  <a href="http://nccore.ezyro.com" target="_blank" rel="noopener">Ntscore Blog</a></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;更新日志-v1-0-1（alpha-1）&quot;&gt;&lt;a href=&quot;#更新日志-v1-0-1（alpha-1）&quot; class=&quot;headerlink&quot; title=&quot;更新日志 v1.0.1（alpha 1）&quot;&gt;&lt;/a&gt;更新日志 v1.0.1（alpha 1）&lt;/h1&gt;&lt;
+      
+    
+    </summary>
+    
+    
+      <category term="更新日志" scheme="https://nccore.github.io/tags/%E6%9B%B4%E6%96%B0%E6%97%A5%E5%BF%97/"/>
+    
+  </entry>
   
   <entry>
     <title>关于本站</title>
